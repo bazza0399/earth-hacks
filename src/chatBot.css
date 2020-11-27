@@ -1,0 +1,19 @@
+.b_frame {
+    -webkit-box-shadow: 0px 19px 147px -41px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 19px 147px -41px rgba(0,0,0,0.75);
+    box-shadow: 0px 19px 147px -41px rgba(0,0,0,0.75);
+    
+    
+    float: left;       
+    width: 400px;
+    height: 530px;
+    
+ 
+    margin-right: 80;
+    
+    border-radius: 40px;
+}
+.ChatText{
+  
+margin-right: 300px;
+}

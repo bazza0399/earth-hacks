@@ -1,0 +1,26 @@
+section{
+    margin-top: 50px;
+    background-color: #f8f9fa;
+}
+.gallery-title
+{
+    font-size: 36px;
+    color: #000000;
+    text-align: center;
+    font-weight: 380;
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
+
+
+
+
+.port-image
+{
+    width: 100%;
+}
+
+.gallery_product
+{
+    margin-bottom: 30px;
+}

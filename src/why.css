@@ -1,0 +1,15 @@
+.categ-List .col-lg-4 { padding: 5px;}
+.categ img { width: 100%; cursor: pointer;}            
+.info { position: absolute; width: 100%; text-align: center; transform: translateY(100%);  top: 0; background: #fffffff2;
+  max-width: 80%;  margin: 0% 10%; cursor: pointer; border-radius: 5px; padding: 15px 0px; transition: all .5s; }
+.categ { position: relative; }
+.categ:hover .info { border-radius: 50px;  max-width:90%; margin: 0% 5%; }
+.info h6 { margin: 0; padding: 0; text-transform: uppercase;}
+.info h4 { margin: 0; padding: 0; font-weight: 600; font-size: 22px; line-height: 1.6;}
+.why-section{
+    margin-top : -1%;
+}
+.title{
+    text-align: center;
+    padding-top: 2.5%;
+}
